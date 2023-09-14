@@ -60,7 +60,7 @@ How to Order from JLCPCB?
 
 Placing an order from JLCPCB is quite simple. Here is a step-by-step guide explaining how to place an order:
 
-Create an Account: Go to the official website of JLCPCB (www.jlcpcb.com) and create an account. Creating an account is free.
+Create an Account: Go to the official website of JLCPCB https://jlcpcb.com/HAR and create an account. Creating an account is free.
 
 Upload Project: After logging into your account, find "Place Order" or similar option to upload your PCB design. Upload your PCB design in Gerber file format.
 
